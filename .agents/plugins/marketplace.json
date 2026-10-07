@@ -1,0 +1,22 @@
+{
+  "name": "cloudcodex-helpers",
+  "interface": {
+    "displayName": "CloudCodeX Helpers"
+  },
+  "plugins": [
+    {
+      "name": "cloudcodex-windows-bootstrap",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/Tungsteno74/cloudcodex-windows-bootstrap.git",
+        "path": "./plugins/cloudcodex-windows-bootstrap",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}
