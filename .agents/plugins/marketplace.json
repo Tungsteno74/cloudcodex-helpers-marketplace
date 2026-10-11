@@ -19,11 +19,11 @@
       "category": "Developer Tools"
     },
     {
-      "name": "codex-cloud-environment-discovery",
+      "name": "cloudcodex-environment-discovery",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/Tungsteno74/codex-cloud-environment-discovery.git",
-        "path": "./plugins/codex-cloud-environment-discovery",
+        "url": "https://github.com/Tungsteno74/cloudcodex-environment-discovery.git",
+        "path": "./plugins/cloudcodex-environment-discovery",
         "ref": "main"
       },
       "policy": {

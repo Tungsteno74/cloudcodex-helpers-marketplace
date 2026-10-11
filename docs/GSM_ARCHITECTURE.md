@@ -59,4 +59,4 @@ Current plugin repositories:
 Proposed experimental plugin (catalog PR; do not merge until live capabilities
 are reviewed for public family distribution):
 
-- `Tungsteno74/codex-cloud-environment-discovery`
+- `Tungsteno74/cloudcodex-environment-discovery`
