@@ -55,3 +55,8 @@ Public marketplace: `Tungsteno74/cloudcodex-helpers-marketplace`
 Current plugin repositories:
 
 - `Tungsteno74/cloudcodex-windows-bootstrap`
+
+Proposed experimental plugin (catalog PR; do not merge until live capabilities
+are reviewed for public family distribution):
+
+- `Tungsteno74/codex-cloud-environment-discovery`
