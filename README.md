@@ -12,8 +12,9 @@ has its own repository, versioning, CI, release process, and issue history.
   GitHub Actions. Source: https://github.com/Tungsteno74/cloudcodex-windows-bootstrap
 - **CloudCodeX Environment Discovery** — Two independent Root-facing read-only skills,
   `legacy-discovery` and `current-discovery`, without a mandatory dispatcher skill
-  or a mixed catalog. Experimental v0.2.0: 120 offline tests and CI validated;
-  authorized Legacy selector and Current live catalog integrations remain pending.
+  or a mixed catalog. Experimental v0.2.1: MCP is opt-in, not required by
+  the two skills. 121 offline tests pass; authorized Legacy selector and Current
+  live catalog integrations remain pending.
   Source: https://github.com/Tungsteno74/cloudcodex-environment-discovery
 
 ## Add the marketplace
